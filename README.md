@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BaselHNsweden
+- 👋 Hi, I’m @BaselHN
 - 👀 I’m Full stuck software development student
 - 🌱 I’m currently learning  ( Html, css, js)
 - 💞️ I’m looking to collaborate on 
